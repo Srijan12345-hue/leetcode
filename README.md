@@ -7,8 +7,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/Srijan12345-hue/leetcode/tree/master/0135-candy) |
+| [1563-stone-game-v](https://github.com/Srijan12345-hue/leetcode/tree/master/1563-stone-game-v) |
 ## Greedy
 |  |
 | ------- |
 | [0135-candy](https://github.com/Srijan12345-hue/leetcode/tree/master/0135-candy) |
+## Math
+|  |
+| ------- |
+| [1563-stone-game-v](https://github.com/Srijan12345-hue/leetcode/tree/master/1563-stone-game-v) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1563-stone-game-v](https://github.com/Srijan12345-hue/leetcode/tree/master/1563-stone-game-v) |
+## Game Theory
+|  |
+| ------- |
+| [1563-stone-game-v](https://github.com/Srijan12345-hue/leetcode/tree/master/1563-stone-game-v) |
 <!---LeetCode Topics End-->
