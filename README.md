@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/Srijan12345-hue/leetcode/tree/master/0135-candy) |
 | [1563-stone-game-v](https://github.com/Srijan12345-hue/leetcode/tree/master/1563-stone-game-v) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Srijan12345-hue/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Greedy
 |  |
 | ------- |
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/Srijan12345-hue/leetcode/tree/master/1563-stone-game-v) |
+## Hash Table
+|  |
+| ------- |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Srijan12345-hue/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 <!---LeetCode Topics End-->
