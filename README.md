@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Srijan12345-hue/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0135-candy](https://github.com/Srijan12345-hue/leetcode/tree/master/0135-candy) |
+| [0189-rotate-array](https://github.com/Srijan12345-hue/leetcode/tree/master/0189-rotate-array) |
 | [1386-cinema-seat-allocation](https://github.com/Srijan12345-hue/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Srijan12345-hue/leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Srijan12345-hue/leetcode/tree/master/1872-stone-game-viii) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Srijan12345-hue/leetcode/tree/master/0189-rotate-array) |
 | [1563-stone-game-v](https://github.com/Srijan12345-hue/leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Srijan12345-hue/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Srijan12345-hue/leetcode/tree/master/1927-sum-game) |
@@ -111,4 +113,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Srijan12345-hue/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Srijan12345-hue/leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
