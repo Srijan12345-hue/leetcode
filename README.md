@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Srijan12345-hue/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0135-candy](https://github.com/Srijan12345-hue/leetcode/tree/master/0135-candy) |
 | [1386-cinema-seat-allocation](https://github.com/Srijan12345-hue/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Srijan12345-hue/leetcode/tree/master/1563-stone-game-v) |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Srijan12345-hue/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Srijan12345-hue/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
