@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Srijan12345-hue/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Srijan12345-hue/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Srijan12345-hue/leetcode/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/Srijan12345-hue/leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Srijan12345-hue/leetcode/tree/master/0136-single-number) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Srijan12345-hue/leetcode/tree/master/0053-maximum-subarray) |
 | [1563-stone-game-v](https://github.com/Srijan12345-hue/leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Srijan12345-hue/leetcode/tree/master/1872-stone-game-viii) |
 ## Game Theory
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Srijan12345-hue/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Srijan12345-hue/leetcode/tree/master/0169-majority-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
