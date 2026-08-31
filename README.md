@@ -182,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Srijan12345-hue/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Srijan12345-hue/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Srijan12345-hue/leetcode/tree/master/0073-set-matrix-zeroes) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Srijan12345-hue/leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
