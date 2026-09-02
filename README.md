@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Srijan12345-hue/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Srijan12345-hue/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Srijan12345-hue/leetcode/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/Srijan12345-hue/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Srijan12345-hue/leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Srijan12345-hue/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Srijan12345-hue/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Srijan12345-hue/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Srijan12345-hue/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Srijan12345-hue/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Srijan12345-hue/leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Srijan12345-hue/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1386-cinema-seat-allocation](https://github.com/Srijan12345-hue/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Srijan12345-hue/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Srijan12345-hue/leetcode/tree/master/0229-majority-element-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Srijan12345-hue/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
 |  |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Srijan12345-hue/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Srijan12345-hue/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Srijan12345-hue/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Srijan12345-hue/leetcode/tree/master/0268-missing-number) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Srijan12345-hue/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Quicksort
@@ -182,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Srijan12345-hue/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Srijan12345-hue/leetcode/tree/master/0229-majority-element-ii) |
 ## Union-Find
 |  |
 | ------- |
