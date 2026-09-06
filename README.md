@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Srijan12345-hue/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Srijan12345-hue/leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Srijan12345-hue/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/Srijan12345-hue/leetcode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Srijan12345-hue/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1386-cinema-seat-allocation](https://github.com/Srijan12345-hue/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Srijan12345-hue/leetcode/tree/master/1563-stone-game-v) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Srijan12345-hue/leetcode/tree/master/0268-missing-number) |
+| [0493-reverse-pairs](https://github.com/Srijan12345-hue/leetcode/tree/master/0493-reverse-pairs) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Srijan12345-hue/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
 |  |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Srijan12345-hue/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Srijan12345-hue/leetcode/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/Srijan12345-hue/leetcode/tree/master/0493-reverse-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -226,4 +229,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Srijan12345-hue/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Srijan12345-hue/leetcode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Srijan12345-hue/leetcode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Srijan12345-hue/leetcode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Srijan12345-hue/leetcode/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Srijan12345-hue/leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
