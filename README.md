@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Srijan12345-hue/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/Srijan12345-hue/leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Srijan12345-hue/leetcode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/Srijan12345-hue/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Srijan12345-hue/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Srijan12345-hue/leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Srijan12345-hue/leetcode/tree/master/0229-majority-element-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Srijan12345-hue/leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Srijan12345-hue/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Srijan12345-hue/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Srijan12345-hue/leetcode/tree/master/0152-maximum-product-subarray) |
 | [1563-stone-game-v](https://github.com/Srijan12345-hue/leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Srijan12345-hue/leetcode/tree/master/1872-stone-game-viii) |
 ## Game Theory
