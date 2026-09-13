@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Srijan12345-hue/leetcode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Srijan12345-hue/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Srijan12345-hue/leetcode/tree/master/0704-binary-search) |
+| [0835-image-overlap](https://github.com/Srijan12345-hue/leetcode/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/Srijan12345-hue/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Srijan12345-hue/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Srijan12345-hue/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Srijan12345-hue/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Srijan12345-hue/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Srijan12345-hue/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0835-image-overlap](https://github.com/Srijan12345-hue/leetcode/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Srijan12345-hue/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Linked List
 |  |
