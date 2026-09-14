@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Srijan12345-hue/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Srijan12345-hue/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Srijan12345-hue/leetcode/tree/master/0268-missing-number) |
+| [0836-rectangle-overlap](https://github.com/Srijan12345-hue/leetcode/tree/master/0836-rectangle-overlap) |
 | [1563-stone-game-v](https://github.com/Srijan12345-hue/leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Srijan12345-hue/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Srijan12345-hue/leetcode/tree/master/1927-sum-game) |
@@ -286,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Srijan12345-hue/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Srijan12345-hue/leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
