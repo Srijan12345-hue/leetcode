@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Srijan12345-hue/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Srijan12345-hue/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Srijan12345-hue/leetcode/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/Srijan12345-hue/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Srijan12345-hue/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1386-cinema-seat-allocation](https://github.com/Srijan12345-hue/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Srijan12345-hue/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Srijan12345-hue/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Srijan12345-hue/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Srijan12345-hue/leetcode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Srijan12345-hue/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Srijan12345-hue/leetcode/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Srijan12345-hue/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Srijan12345-hue/leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Srijan12345-hue/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Srijan12345-hue/leetcode/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Srijan12345-hue/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Srijan12345-hue/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
 |  |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Srijan12345-hue/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Srijan12345-hue/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Srijan12345-hue/leetcode/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/Srijan12345-hue/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Srijan12345-hue/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Srijan12345-hue/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Quicksort
@@ -341,4 +345,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Srijan12345-hue/leetcode/tree/master/0796-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Srijan12345-hue/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Srijan12345-hue/leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
