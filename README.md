@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Srijan12345-hue/leetcode/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/Srijan12345-hue/leetcode/tree/master/0410-split-array-largest-sum) |
 | [1386-cinema-seat-allocation](https://github.com/Srijan12345-hue/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Srijan12345-hue/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Srijan12345-hue/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Srijan12345-hue/leetcode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Srijan12345-hue/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Srijan12345-hue/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1386-cinema-seat-allocation](https://github.com/Srijan12345-hue/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Srijan12345-hue/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Srijan12345-hue/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Srijan12345-hue/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Srijan12345-hue/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Srijan12345-hue/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Srijan12345-hue/leetcode/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Srijan12345-hue/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Srijan12345-hue/leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Srijan12345-hue/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Srijan12345-hue/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Srijan12345-hue/leetcode/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Srijan12345-hue/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Srijan12345-hue/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Srijan12345-hue/leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Srijan12345-hue/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Srijan12345-hue/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Srijan12345-hue/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Srijan12345-hue/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Quicksort
